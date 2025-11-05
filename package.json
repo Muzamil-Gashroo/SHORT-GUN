@@ -1,9 +1,9 @@
 {
-  "name": "lets-short-url",
+  "name": "Short-Gun",
   "version": "1.0.0",
-  "description": "",
+  "description": "makes long url into short.",
   "license": "ISC",
-  "author": "",
+  "author": " Muzamil Gashroo",
   "type": "commonjs",
   "main": "index.js",
   "scripts": {
