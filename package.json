@@ -2,7 +2,7 @@
   "name": "Short-Gun",
   "version": "1.0.0",
   "description": "makes long url into short.",
-  "license": "ISC",
+  "license": "MIT",
   "author": " Muzamil Gashroo",
   "type": "commonjs",
   "main": "index.js",
