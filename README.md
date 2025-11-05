@@ -33,6 +33,4 @@ It allows you to create and retrieve shortened URLs with unique short IDs.
 
 ## Author
 
-🧑‍💻 Author
-
-Muzamil Gashroo
+Developed By Muzamil Gashroo.
